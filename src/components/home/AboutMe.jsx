@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../editable-stuff/";
+import Pdf from "../../editable-stuff/CV.pdf";
 
 import axios from "axios";
 
@@ -54,7 +54,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
               <p className="lead text-center">
                 <a
                   className="btn btn-outline-dark btn-lg"
-                  href={resume}
+                  href={Pdf}
                   download="CV.pdf"
                   target="_blank"
                   rel="noreferrer noopener"
