@@ -5,7 +5,7 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
+  gradientColors: "#ff9b11, #7b1be4, #38c76d, #ff9b11, #d417a9, #ff4f4f, #ecf0f1",
   firstName: "Dilakshi",
   middleName: "",
   lastName: "Abeysinghe",
@@ -20,6 +20,8 @@ const mainBody = {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/dilakshi-kaumadi-585b651b0",
     },
+    
+    
     
   ],
 };
@@ -45,7 +47,7 @@ const about = {
   imageSize: 280,
   message:
     "My name is Dilakshi Abeysinghe. I’m an undergraduate of Department of ICT Faculty of Humanities and Social Sciences of University of Sri Jayewardanepura at with a degree in Software Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1oWPrFnrUm3r4C-7KnZvVDCyHhli0ZpHq/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -57,7 +59,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "DILAKSHI-ICT", 
-  reposLength: 6,
+  reposLength: 7,
   specificRepos: [],
 };
 
@@ -95,12 +97,12 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
+    { name: "Python", value: 80 },
     { name: "SQL", value: 75 },
     { name: "HTML/CSS", value: 85 },
-    { name: "Java", value: 80 },
+    { name: "Java", value: 70 },
     { name: "React Native", value: 65 },
-    { name: "JavaScript", value: 70 },
+    { name: "JavaScript", value: 65 },
     { name: "React", value: 55 },
     { name: "C/C++", value: 50 },
     
