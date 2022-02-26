@@ -1,5 +1,5 @@
 import React from "react";
-import Pdf from "../../editable-stuff/resume.pdf";
+import resume from "../../editable-stuff/";
 
 import axios from "axios";
 
@@ -55,10 +55,12 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
                 <a
                   className="btn btn-outline-dark btn-lg"
                   href={resume}
+                  download="CV.pdf"
                   target="_blank"
                   rel="noreferrer noopener"
                   role="button"
                   aria-label="Resume/CV"
+                  
                 >
                   Resume
                 </a>
