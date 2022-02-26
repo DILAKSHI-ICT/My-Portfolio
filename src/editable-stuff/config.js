@@ -59,7 +59,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "DILAKSHI-ICT", 
-  reposLength: 7,
+  reposLength: 8,
   specificRepos: [],
 };
 

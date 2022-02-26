@@ -12,7 +12,7 @@ const Footer = (props) => {
         <a
           className="badge badge-dark"
           rel="noopener"
-          href="https://github.com/DILAKSHI-ICT/My-Portfolio/tree/dev"
+          href="https://github.com/DILAKSHI-ICT/My-Portfolio"
           aria-label="My GitHub"
         >
           Dilakshi Abeysinghe
