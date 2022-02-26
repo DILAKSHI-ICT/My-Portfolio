@@ -12,7 +12,7 @@ const Footer = (props) => {
         <a
           className="badge badge-dark"
           rel="noopener"
-          href="https://github.com/DILAKSHI-ICT"
+          href="https://github.com/DILAKSHI-ICT/My-Portfolio/tree/dev"
           aria-label="My GitHub"
         >
           Dilakshi Abeysinghe
@@ -20,8 +20,7 @@ const Footer = (props) => {
         using <i className="fab fa-react" />
         <p>
           <small className="text-muted">
-            Project code is open source. Feel free to fork and make your own
-            version.
+          “The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.”
           </small>
         </p>
       </Container>
