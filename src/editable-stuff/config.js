@@ -152,7 +152,7 @@ const experiences = {
     {
       role: 'Trainee at Peoples Bank - Panadura',// Here Add Company Name
       
-      companylogo: require('../editable-stuff/pb.jpg'),
+      companylogo: require('../editable-stuff/pb.png'),
       date: 'January 2019 – March 2020',
     
     },
