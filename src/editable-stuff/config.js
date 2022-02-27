@@ -50,6 +50,7 @@ const about = {
   resume: "https://drive.google.com/file/d/1oWPrFnrUm3r4C-7KnZvVDCyHhli0ZpHq/view?usp=sharing",
 };
 
+
 // PROJECTS SECTION
 // Setting up project lenght will automatically fetch your that number of recently updated projects, or you can set this field 0 to show none.
 //      i.e: reposLength: 0,
