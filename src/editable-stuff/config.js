@@ -128,6 +128,23 @@ const getInTouch = {
   email: "cdkabeysinghe@gmail.com",
 };
 
+const education = {
+  show: true,
+  heading: "Education",
+  data: [
+    {
+      role: 'Undergraduate in BSc.(Hons) in Information Technology University of Sri Jayewardenepura ',// Here Add Company Name
+      companylogo: require('../assets/img/uni.jpeg'),
+      date: 'March 2020 – Present',
+    },
+    {
+      role: 'G.C.E. Advanced Level - Sri Sumangala Balika Maha Vidyalaya, Panadura,',// Here Add Company Name
+      companylogo: require('../assets/img/scl.png'),
+      date: 'Jan 2019 – Jan 2020',
+    },
+    
+  ]
+}
 const experiences = {
   show: true,
   heading: "Experiences",
@@ -143,9 +160,10 @@ const experiences = {
   ]
 }
 
+
 // Blog SECTION
 // const blog = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
+export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences, education };
