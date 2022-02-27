@@ -138,7 +138,7 @@ const education = {
       date: 'March 2020 – Present',
     },
     {
-      role: 'G.C.E. Advanced Level - Sri Sumangala Balika Maha Vidyalaya, Panadura,',// Here Add Company Name
+      role: 'G.C.E. Advanced Level - Sri Sumangala Balika Maha Vidyalaya, Panadura',// Here Add Company Name
       companylogo: require('../assets/img/scl.png'),
       date: 'Jan 2004 – Aug 2018',
     },
