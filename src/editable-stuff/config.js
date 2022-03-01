@@ -99,7 +99,7 @@ const leadership = {
     },    
   ],
   imageSize: {
-    width:"50",
+    width:"400",
     height:"450"
   }
 };
