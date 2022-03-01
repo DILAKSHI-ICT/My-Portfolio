@@ -69,7 +69,7 @@ const leadership = {
   show: true,
   heading: "Leadership",
   message:
-"Activities and societies: Games Captain of the School Head Board(2016-2017), President of the School Chess Club (2016-2017), Band Leader of the School Senior Western Band (2015-2016), Leader of the School Orchestra (2015-2016), Member of the School Senior Drama and Ballet Society (2010-2012), Member of the School Science and Innovation Society (2011-2012), Member of the School Debate Team (2011-2012), Member of the School Media Unit (2009-2010), Member of the School Sinhala Literary Association (2009-2014)",
+"Activities and societies: Games Captain of the School Head Board(2016-2017), President of the School Chess Club (2016-2017), Band Leader of the School Senior Western Band (2015-2016), Leader of the School Orchestra (2015-2016), Member of the School Senior Drama and Ballet Society (2010-2012), Member of the School Science and Innovation Society (2011-2012), Member of the School Debate Team (2011-2012), Member of the School Media Unit (2009-2010), Member of the School Sinhala Literary Association (2009-2014), Member of Japura C2 Leo Club (2021-Present), Member of Japura Vikings Club (2022) ",
   images: [
     { 
       img: require("../editable-stuff/image-0-02-06-7eaec8b33414fc993e2f3d3d6e7f8cec2d97d9879cd186d401f16732064ff583-V.jpg"), 
@@ -86,6 +86,17 @@ const leadership = {
       label: "AMOUR' 18", 
       
     },
+    { 
+      img: require("../assets/img/leo.jpeg"), 
+      label: "Leo Club of District 306 C2 University of Sri Jayewardenepura", 
+      paragraph: "" 
+    },
+
+    { 
+      img: require("../assets/img/vikings.jpg"), 
+      label: "Jpura Vikings", 
+      paragraph: "" 
+    },    
   ],
   imageSize: {
     width:"50",
@@ -139,6 +150,11 @@ const education = {
       date: 'March 2020 – Present',
     },
     {
+      role: 'Computer Systems Networking and Telecommunications - Cisco Networking Academy',// Here Add Company Name
+      companylogo: require('../assets/img/Cisco.png'),
+      date: 'May 2020 – December 2021',
+    },
+    {
       role: 'G.C.E. Advanced Level - Sri Sumangala Balika Maha Vidyalaya, Panadura',// Here Add Company Name
       companylogo: require('../assets/img/scl.png'),
       date: 'Jan 2004 – Aug 2018',
@@ -160,11 +176,25 @@ const experiences = {
     
   ]
 }
-
-
+const certifications = {
+  show: true,
+  heading: "Certifications",
+  data: [
+    {
+      role: 'Cisco Networking Academy -Passing score on Cisco Networking Academy comprehensive final exam. (https://www.credly.com/badges/b14162c5-02a2-459e-b4f1-82ffda4e3b64/public_url))',// Here Add Company Name
+      companylogo: require('../assets/img/certificate.png'),
+      date: 'January 25, 2021',
+    },
+    {
+      role: 'ARDUINO Codecamp Workshop - Offered by Institute of Innovators (https://ii.lk/codecamp)',// Here Add Company Name
+      companylogo: require('../assets/img/Original.png'),
+      date: 'Jun 2021',
+    },
+  ]
+}
 // Blog SECTION
 // const blog = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences, education };
+export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences, education, certifications };

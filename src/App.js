@@ -9,7 +9,8 @@ import {
   skills,
   getInTouch,
   experiences,
-  education
+  education,
+  certifications
 } from "./editable-stuff/config.js";
 import MainBody from "./components/home/MainBody";
 import AboutMe from "./components/home/AboutMe";
@@ -19,9 +20,9 @@ import Navbar from "./components/Navbar";
 import Skills from "./components/home/Skills";
 import GetInTouch from "./components/home/GetInTouch.jsx";
 import Leadership from "./components/home/Leadership.jsx";
-
 import Experience from "./components/home/Experience";
 import Education from "./components/home/Education.jsx";
+import Certifications from "./components/home/Certifications.jsx";
 
 const Home = React.forwardRef((props, ref) => {
   return (
@@ -54,7 +55,11 @@ const Home = React.forwardRef((props, ref) => {
           <Experience experiences={experiences}/>
         )
       }
-      
+      {
+        certifications.show && (
+          <Certifications certifications={certifications}/>
+        )
+      }
       {repos.show && (
         <Project
           heading={repos.heading}
