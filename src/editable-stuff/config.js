@@ -47,7 +47,7 @@ const about = {
   imageSize: 280,
   message:
     "My name is Dilakshi Abeysinghe. I’m an undergraduate of Department of ICT Faculty of Humanities and Social Sciences of University of Sri Jayewardanepura at with a degree in Software Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://drive.google.com/file/d/1oWPrFnrUm3r4C-7KnZvVDCyHhli0ZpHq/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1fqCh6aItMA51eLKoHkeeQFaySxXeDx8p/view?usp=sharing",
 };
 
 
