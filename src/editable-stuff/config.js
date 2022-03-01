@@ -49,7 +49,7 @@ const about = {
     "My name is Dilakshi Abeysinghe. I’m an undergraduate of Department of ICT Faculty of Humanities and Social Sciences of University of Sri Jayewardanepura at with a degree in Software Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
   resume: "https://drive.google.com/file/d/1fqCh6aItMA51eLKoHkeeQFaySxXeDx8p/view?usp=sharing",
 };
-
+//https://drive.google.com/file/d/1fqCh6aItMA51eLKoHkeeQFaySxXeDx8p/view?usp=sharing
 
 // PROJECTS SECTION
 // Setting up project lenght will automatically fetch your that number of recently updated projects, or you can set this field 0 to show none.
