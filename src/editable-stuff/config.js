@@ -87,13 +87,13 @@ const leadership = {
       
     },
     { 
-      img: require("../assets/img/leo.jpeg"), 
+      img: require("../assets/img/leo.jpg"), 
       label: "Leo Club of District 306 C2 University of Sri Jayewardenepura", 
       paragraph: "" 
     },
 
     { 
-      img: require("../assets/img/vikings.jpg"), 
+      img: require("../assets/img/wiking.jpg"), 
       label: "Jpura Vikings", 
       paragraph: "" 
     },    
