@@ -1,5 +1,5 @@
 import React from "react";
-import Pdf from "../../editable-stuff/CV.pdf";
+import Pdf from "../../editable-stuff/Resume.pdf";
 
 import axios from "axios";
 
@@ -55,7 +55,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
                 <a
                   className="btn btn-outline-dark btn-lg"
                   href={Pdf}
-                  download="CV.pdf"
+                  download="Resume.pdf"
                   target="_blank"
                   rel="noreferrer noopener"
                   role="button"
