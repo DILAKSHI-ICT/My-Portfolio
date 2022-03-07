@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Dilakshi",
   middleName: "",
   lastName: "Abeysinghe",
-  message: " Passionate about changing the world with technology. ",
+  message: " Passionate about woking smart and changing the world with technology. ",
   icons: [
     {
       image: "fa-github",
@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/Profile.jpeg"),
   imageSize: 280,
   message:
-    "My name is Dilakshi Abeysinghe. I’m an undergraduate of Department of ICT Faculty of Humanities and Social Sciences of University of Sri Jayewardanepura at with a degree in Software Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Dilakshi Abeysinghe. I’m an undergraduate of Department of ICT Faculty of Humanities and Social Sciences of University of Sri Jayewardanepura at with a degree in Software Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. I think I have so many leadership skills and creative ideas. And also, I like to work as a team and share knowledge with other. In my free time I like to listen music. Because music is the best medicine for all of us to relax our mind. However, I have an ability to keep calm and work perfectly.",
   resume: "https://drive.google.com/file/d/1fqCh6aItMA51eLKoHkeeQFaySxXeDx8p/view?usp=sharing",
 };
 //https://drive.google.com/file/d/1fqCh6aItMA51eLKoHkeeQFaySxXeDx8p/view?usp=sharing
@@ -88,13 +88,13 @@ const leadership = {
     },
     { 
       img: require("../assets/img/leo.jpg"), 
-      label: "Leo Club of District 306 C2 University of Sri Jayewardenepura", 
+      label: "Member of Leo Club of District 306 C2 University of Sri Jayewardenepura (Present)", 
       paragraph: "" 
     },
 
     { 
       img: require("../assets/img/wiking.jpg"), 
-      label: "Jpura Vikings", 
+      label: "Member of Jpura Viking Club (Present)", 
       paragraph: "" 
     },    
   ],
@@ -145,12 +145,12 @@ const education = {
   heading: "Education",
   data: [
     {
-      role: 'Undergraduate in BSc.(Hons) in Information Technology University of Sri Jayewardenepura ',// Here Add Company Name
+      role: 'Undergraduate in BSc.(Hons) in Information Technology University of Sri Jayewardenepura. Curently I am learning about web development both front-end and back-end. ',// Here Add Company Name
       companylogo: require('../assets/img/uni.jpeg'),
       date: 'March 2020 – Present',
     },
     {
-      role: 'Computer Systems Networking and Telecommunications - Cisco Networking Academy',// Here Add Company Name
+      role: 'Computer Systems Networking and Telecommunications - Cisco Networking Academy. Learned about impact of cyber attacks on industries and why cybersecurity is a growing profession.',// Here Add Company Name
       companylogo: require('../assets/img/Cisco.png'),
       date: 'May 2020 – December 2021',
     },
@@ -167,8 +167,7 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Trainee at Peoples Bank - Panadura',// Here Add Company Name
-      
+      role: 'Trainee at Peoples Bank - Panadura. In my training period I worked as a cashier at main counters and pawning counters. And I did every task in my counter with my chief cashier. I got so many experiences at the bank like handling money, balancing time, dealing with different types of people etc. And also we organized so many events and I was actively joined them.',// Here Add Company Name
       companylogo: require('../assets/img/pb.png'),
       date: 'January 2019 – March 2020',
     
@@ -186,7 +185,7 @@ const certifications = {
       date: 'January 25, 2021',
     },
     {
-      role: 'ARDUINO Codecamp Workshop - Offered by Institute of Innovators (https://ii.lk/codecamp)',// Here Add Company Name
+      role: 'ARDUINO Codecamp Workshop - Offered by Institute of Innovators (https://ii.lk/codecamp) for getting 5 stars on their assessment of ARDUINO workshop. ',// Here Add Company Name
       companylogo: require('../assets/img/Original.png'),
       date: 'Jun 2021',
     },
