@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/Profile.jpeg"),
   imageSize: 280,
   message:
-    "My name is Dilakshi Abeysinghe. I’m an undergraduate of Department of ICT Faculty of Humanities and Social Sciences of University of Sri Jayewardanepura at with a degree in Software Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. I think I have so many leadership skills and creative ideas. And also, I like to work as a team and share knowledge with each others. In my free time I like to listen music. Because music is the best medicine for all of us to relax our mind. However, I have an ability to keep calm and work perfectly.",
+    "My name is Dilakshi Abeysinghe. I’m an undergraduate of Department of ICT Faculty of Humanities and Social Sciences of University of Sri Jayewardanepura at with a degree in Software Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. I think I have so many leadership skills and creative ideas. And also, I like to work as a team and share knowledge with each others. In my free time I like to listen music. Because, music is the best medicine for all of us to relax our mind. However, I have an ability to keep calm and work perfectly.",
   resume: "https://drive.google.com/file/d/1fqCh6aItMA51eLKoHkeeQFaySxXeDx8p/view?usp=sharing",
 };
 //https://drive.google.com/file/d/1fqCh6aItMA51eLKoHkeeQFaySxXeDx8p/view?usp=sharing
